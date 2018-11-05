@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Wed May 02 15:41:40 CEST 2018 -->
+
+
+<!DOCTYPE sejour [ 
+<!ELEMENT sejour (Client,adresse,date,sjour)>
+<!ELEMENT Client (genre,nom,prenom,adresseC,age,email,telephone)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT adresseC (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT telephone (#PCDATA)>
+<!ELEMENT adresse (rue,ville,codepostal)>
+<!ELEMENT rue (#PCDATA)>
+<!ELEMENT ville (#PCDATA)>
+<!ELEMENT codepostal (#PCDATA)>
+<!ELEMENT date (semaine,annee)>
+<!ELEMENT annee (#PCDATA)>
+<!ELEMENT semaine (#PCDATA)>
+<!ELEMENT sjour (#PCDATA)>
+]> 
+
+<sejour>
+	<Client>
+		<genre>Mme</genre>
+		<nom>Cabrerizo</nom> 
+		<prenom>Mathilde</prenom>
+		<adresseC>21 rue du General Carrey de Bellemare</adresseC>
+		<age>21</age>
+		<email>elise.cabrerizo@yahoo.fr</email>
+		<telephone>0663579082</telephone>
+		
+	</Client>
+	<adresse>
+		<rue>ESILV</rue>
+		<ville>La Defense</ville>
+		<codepostal>75016</codepostal>
+	</adresse>
+	<date>
+		<semaine>14</semaine>
+		<annee>2018</annee>
+	</date>
+	
+	<sjour>visite de la Defense</sjour>
+</sejour>

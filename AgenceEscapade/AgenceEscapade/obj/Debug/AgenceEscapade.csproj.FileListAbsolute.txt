@@ -1,0 +1,9 @@
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\S6\AgenceEscapade\AgenceEscapade\bin\Debug\AgenceEscapade.exe.config
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\S6\AgenceEscapade\AgenceEscapade\bin\Debug\AgenceEscapade.exe
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\S6\AgenceEscapade\AgenceEscapade\bin\Debug\AgenceEscapade.pdb
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\S6\AgenceEscapade\AgenceEscapade\obj\Debug\AgenceEscapade.csprojResolveAssemblyReference.cache
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\S6\AgenceEscapade\AgenceEscapade\obj\Debug\AgenceEscapade.exe
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\S6\AgenceEscapade\AgenceEscapade\obj\Debug\AgenceEscapade.pdb
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\S6\AgenceEscapade\AgenceEscapade\bin\Debug\MySql.Data.dll
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\S6\AgenceEscapade\AgenceEscapade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\S6\AgenceEscapade\AgenceEscapade\bin\Debug\Newtonsoft.Json.xml

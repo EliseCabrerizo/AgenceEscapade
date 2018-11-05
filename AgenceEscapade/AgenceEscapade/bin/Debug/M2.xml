@@ -1,0 +1,32 @@
+<dossier etatdossier="non confirmé" numSejour="S683">
+  <client>
+    <codeC>C758</codeC>
+    <prenom>Mathilde</prenom>
+    <nom>Cabrerizo</nom>
+  </client>
+  <sejour>
+    <semaine>14</semaine>
+    <annee>2018</annee>
+    <theme>visite de la Defense</theme>
+  </sejour>
+  <voiture>
+    <immat>71PO37</immat>
+    <parking>Parking Victor Hugo</parking>
+    <place>A0</place>
+  </voiture>
+  <logement idroom="294489">
+    <prix>174</prix>
+    <notemoyenne>5</notemoyenne>
+    <codepostal>16</codepostal>
+  </logement>
+  <logement idroom="647590">
+    <prix>130</prix>
+    <notemoyenne>5</notemoyenne>
+    <codepostal>16</codepostal>
+  </logement>
+  <logement idroom="303699">
+    <prix>123</prix>
+    <notemoyenne>5</notemoyenne>
+    <codepostal>16</codepostal>
+  </logement>
+</dossier>

@@ -1,0 +1,13 @@
+<dossier etatdossier="impossible" numSejour="S683">
+  <client>
+    <codeC>C758</codeC>
+    <prenom>Mathilde</prenom>
+    <nom>Cabrerizo</nom>
+  </client>
+  <sejour>
+    <semaine>14</semaine>
+    <annee>2018</annee>
+    <theme>visite de la Defense</theme>
+    <info>séjour impossible, veuillez choisir une autre date</info>
+  </sejour>
+</dossier>

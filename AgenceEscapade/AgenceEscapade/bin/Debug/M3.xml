@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Wed May 02 15:41:40 CEST 2018 -->
+
+
+<!DOCTYPE sejour [ 
+<!ELEMENT sejour (numSejour,refLogement,valiation)>
+<!ELEMENT numSejour (#PCDATA)>
+<!ELEMENT refLogement (#PCDATA)>
+<!ELEMENT validation (#PCDATA)>
+]> 
+
+<sejour>
+	<numSejour>S863</numSejour>
+	<refLogement>294489</refLogement>
+	<validation>non confirmé</validation>
+</sejour>
